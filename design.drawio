@@ -67,19 +67,35 @@
             <root>
                 <mxCell id="RSSm0hAbJeod53ylibPs-0"/>
                 <mxCell id="RSSm0hAbJeod53ylibPs-1" parent="RSSm0hAbJeod53ylibPs-0"/>
+                <mxCell id="RSSm0hAbJeod53ylibPs-10" value="" style="edgeStyle=none;html=1;" edge="1" parent="RSSm0hAbJeod53ylibPs-1" source="RSSm0hAbJeod53ylibPs-2" target="RSSm0hAbJeod53ylibPs-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="RSSm0hAbJeod53ylibPs-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
                     <mxGeometry x="190" y="40" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="RSSm0hAbJeod53ylibPs-11" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RSSm0hAbJeod53ylibPs-1" source="RSSm0hAbJeod53ylibPs-3" target="RSSm0hAbJeod53ylibPs-5">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="RSSm0hAbJeod53ylibPs-3" value="get radius" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
                     <mxGeometry x="190" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="RSSm0hAbJeod53ylibPs-12" style="edgeStyle=none;html=1;" edge="1" parent="RSSm0hAbJeod53ylibPs-1" source="RSSm0hAbJeod53ylibPs-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="250" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="RSSm0hAbJeod53ylibPs-5" value="circumference=tau*&lt;br&gt;radius" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
                     <mxGeometry x="190" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="RSSm0hAbJeod53ylibPs-13" style="edgeStyle=none;html=1;" edge="1" parent="RSSm0hAbJeod53ylibPs-1" source="RSSm0hAbJeod53ylibPs-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="430" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="RSSm0hAbJeod53ylibPs-8" value="show circumference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
                     <mxGeometry x="180" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="RSSm0hAbJeod53ylibPs-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
+                <mxCell id="RSSm0hAbJeod53ylibPs-9" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RSSm0hAbJeod53ylibPs-1">
                     <mxGeometry x="190" y="440" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
